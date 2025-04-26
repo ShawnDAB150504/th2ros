@@ -1,4 +1,0 @@
-<launch>
-    <node pkg="th2" type="complex_publisher.py" name="complex_publisher" output="screen"/>
-    <node pkg="th2" type="complex_subcriber.py" name="complex_subcriber" output="screen"/>
-</launch>
